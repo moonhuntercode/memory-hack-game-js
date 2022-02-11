@@ -4,52 +4,52 @@ document.addEventListener('DOMContentLoaded', () => {
 
     {
         name:'sasuke1',
-        img:'/img/sasuke1.jpg'
+        img:'./img/sasuke1.jpg'
     },
     {
         name:'madara1',
-        img:'/img/madara1.jpg'
+        img:'./img/madara1.jpg'
     },
     {
       name:'sasuke1',
-      img:'/img/sasuke1.jpg'
+      img:'./img/sasuke1.jpg'
   },
   {
       name:'madara1',
-      img:'/img/madara1.jpg'
+      img:'./img/madara1.jpg'
   },
   {
     name:'outsutsuki1',
-    img:'/img/outsutsuki1.png'
+    img:'./img/outsutsuki1.png'
 },
 
 {
     name:'Pain',
-    img:'/img/Pain1.jpg'
+    img:'./img/Pain1.jpg'
 },
 {
   name:'Pain',
-  img:'/img/Pain1.jpg'
+  img:'./img/Pain1.jpg'
 },
 {
   name:'outsutsuki1',
-  img:'/img/outsutsuki1.png'
+  img:'./img/outsutsuki1.png'
 },
 {
   name:'obito',
-  img:'/img/obito.png'
+  img:'./img/obito.png'
 },
 {
   name:'obito',
-  img:'/img/obito.png'
+  img:'./img/obito.png'
 },
 {
   name:'indra',
-  img:'/img/indra2.png'
+  img:'./img/indra2.png'
 },
 {
   name:'indra',
-  img:'/img/indra2.png'
+  img:'./img/indra2.png'
 },
   ]; 
 
